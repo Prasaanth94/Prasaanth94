@@ -1,6 +1,6 @@
 <div align="center">
 
-<h3>WIP/h3>
+<h3>WIP</h3>
   <h1>HELLO WORLD!<h1>
 <h3>Take a look at my personal site, WIP!<h3>
   <a href="https://portfolio-f4j0uel2k-prasaanth94s-projects.vercel.app/#"> <img src="https://img.shields.io/badge/%27Portfolio-20B2AA?style=for-the-badge" alt="Portfolio"/></a>
