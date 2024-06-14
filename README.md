@@ -8,7 +8,7 @@
 <h3>Connect with me on linkedIn</h3>
 <a href="https://linkedin.com/in/m-prasaanth"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
-
+<P>Currently working on a project using Java Springboot as my server. PostegreSQl for database and react{using typescript) for front end</P>
 /<div>
 
 ![Prasaanth94's Stats](https://github-readme-stats.vercel.app/api?username=Prasaanth94&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
